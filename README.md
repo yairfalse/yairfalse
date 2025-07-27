@@ -15,7 +15,6 @@ I'm a Berlin-based Engineering Manager & Electronic Music Producer with 30+ year
 - Multi-provider support: AWS, GCP, Kubernetes, Terraform
 - Think "git diff" for your infrastructure - track changes over time
 - Unix-style output with multiple formats (JSON, YAML, table, markdown)
-- Real-time monitoring and CI/CD integration ready
 
 ### 🎵 **[ENXIO](https://yairetziony.bandcamp.com/)**
 *Electronic Music - Ambient/Experimental*
