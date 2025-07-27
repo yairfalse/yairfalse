@@ -35,7 +35,7 @@ I'm a Berlin-based Engineering Manager & Electronic Music Producer with 30+ year
 ## 🧰 Technologies & Tools
 
 ```
-Languages:     Go, Python, Shell, YAML, HCL
+Languages:     Go, Shell, YAML, HCL
 Cloud:         AWS, GCP, Kubernetes, Docker, Terraform
 DevOps:        CI/CD, GitOps, Helm, ArgoCD, Jenkins
 Observability: Prometheus, Grafana, eBPF, OpenTelemetry
