@@ -19,7 +19,6 @@ I'm a Berlin-based Engineering Manager & Electronic Music Producer with 30+ year
 ### 🎵 **[ENXIO](https://yairetziony.bandcamp.com/)**
 *Electronic Music - Ambient/Experimental*
 - Tech-themed albums exploring DevOps culture ("Git remote rm main", "Kubectl delete pod")
-- Released on international labels (Germany, Canada, UK, Sweden, Japan)
 - Modular synthesizer compositions with industrial and ambient influences
 - 15+ albums spanning experimental electronic music since 2007
 
