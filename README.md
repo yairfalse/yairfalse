@@ -12,9 +12,9 @@ I'm a Berlin-based Engineering Manager & Electronic Music Producer with 30+ year
 
 ### 🔍 **[Urpo](https://github.com/yairfalse/urpo)**
 *Lightning-fast OpenTelemetry trace explorer built in Rust*
-🚀 Mega fast. Mega lean. Urpo provides immediate insights into distributed system health with minimal resource overhead.
-A high-performance trace analysis tool that prioritizes speed and efficiency above all else. No bloat, just pure observability performance.
-Built for teams who need instant answers from their telemetry data without the heavyweight infrastructure.
+- 🚀 Mega fast. Mega lean. Urpo provides immediate insights into distributed system health with minimal resource overhead.
+- A high-performance trace analysis tool that prioritizes speed and efficiency above all else. No bloat, just pure observability performance.
+- Built for teams who need instant answers from their telemetry data without the heavyweight infrastructure.
 
 ### 🎵 **[ENXIO](https://yairetziony.bandcamp.com/)**
 *Electronic Music - Ambient/Experimental*
