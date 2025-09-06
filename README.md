@@ -10,11 +10,11 @@ I'm a Berlin-based Engineering Manager & Electronic Music Producer with 30+ year
 - Real-time event processing with <100ms latency
 - Natural language insights from technical events
 
-### 🔍 **[Vaino](https://github.com/yairfalse/vaino)**
-*Infrastructure Drift Detection & Monitoring Tool*
-- Multi-provider support: AWS, GCP, Kubernetes, Terraform
-- Think "git diff" for your infrastructure - track changes over time
-- Unix-style output with multiple formats (JSON, YAML, table, markdown)
+### 🔍 **[Urpo](https://github.com/yairfalse/urpo)**
+*Lightning-fast OpenTelemetry trace explorer built in Rust*
+🚀 Mega fast. Mega lean. Urpo provides immediate insights into distributed system health with minimal resource overhead.
+A high-performance trace analysis tool that prioritizes speed and efficiency above all else. No bloat, just pure observability performance.
+Built for teams who need instant answers from their telemetry data without the heavyweight infrastructure.
 
 ### 🎵 **[ENXIO](https://yairetziony.bandcamp.com/)**
 *Electronic Music - Ambient/Experimental*
