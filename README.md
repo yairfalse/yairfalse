@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Yair Etziony
+# I'm Yair Etziony
 
 I'm a Berlin-based Engineering Manager & Electronic Music Producer with 30+ years of experience spanning systems administration, DevOps, and infrastructure. I build tools and systems that solve complex operational challenges at scale, while also creating experimental electronic music that explores the intersection of technology and emotion.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🌲 **[Tapio](https://github.com/yairfalse/tapio)**
 *Kubernetes & eBPF Observability Platform*
@@ -12,8 +12,8 @@ I'm a Berlin-based Engineering Manager & Electronic Music Producer with 30+ year
 
 ### 🔍 **[Urpo](https://github.com/yairfalse/urpo)**
 *Lightning-fast OpenTelemetry trace explorer built in Rust*
-- 🚀 Mega fast. Mega lean. Urpo provides immediate insights into distributed system health with minimal resource overhead.
-- A high-performance trace analysis tool that prioritizes speed and efficiency above all else. No bloat, just pure observability performance.
+- Urpo provides immediate insights into distributed system health with minimal resource overhead.
+- A high-performance trace analysis tool that prioritizes speed and efficiency above all else.
 - Built for teams who need instant answers from their telemetry data without the heavyweight infrastructure.
 
 ### 🎵 **[ENXIO](https://yairetziony.bandcamp.com/)**
@@ -52,9 +52,6 @@ Leadership:    Team Management, DevOps Culture, SRE
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yairfalse&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🎯 Philosophy
-
-> "Building resilient systems requires understanding both technical complexity and human culture - like crafting experimental music, the most interesting solutions emerge from the intersection of structure and chaos."
 
 ## 📫 Connect With Me
 
@@ -66,5 +63,3 @@ Leadership:    Team Management, DevOps Culture, SRE
 - 🎤 **Speaking**: CD Foundation Ambassador & Conference Speaker
 
 ---
-
-⭐ **Interested in collaborating?** Feel free to reach out if you're working on something exciting in DevOps tooling, infrastructure automation, or experimental electronic music!
