@@ -52,8 +52,6 @@ Leadership:    Team Management, DevOps Culture, SRE
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yairfalse&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
-[![yair's GitHub stats](https://github-readme-stats.vercel.app/api?username=yairfalse)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## 📫 Connect With Me
 
