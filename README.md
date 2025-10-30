@@ -2,10 +2,6 @@
 
 Berlin-based Engineering Manager building high-performance observability platforms and experimental electronic music. 30+ years of infrastructure experience from VAX/VMS to eBPF.
 
-## Current Focus
-
-Building **Rauta** - a Kubernetes-native API gateway written in Rust, leveraging eBPF and XDP for high-performance HTTP packet processing. Exploring the intersection of kernel-level programming and cloud-native infrastructure.
-
 ## Key Projects
 
 ### [Tapio](https://github.com/yairfalse/tapio)
