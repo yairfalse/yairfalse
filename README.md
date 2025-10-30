@@ -1,50 +1,52 @@
-# I'm Yair Etziony
+# Hi, I'm Yair
 
-I'm a Berlin-based Engineering Manager & Electronic Music Producer with 30+ years of experience spanning systems administration, DevOps, and infrastructure. I build tools and systems that solve complex operational challenges at scale, while also creating experimental electronic music that explores the intersection of technology and emotion.
+Berlin-based Engineering Manager building high-performance observability platforms and experimental electronic music. 30+ years of infrastructure experience from VAX/VMS to eBPF.
 
-## Featured Projects
+## Current Focus
 
-### 🌲 **[Tapio](https://github.com/yairfalse/tapio)**
-*Kubernetes & eBPF Observability Platform*
-- Make K8s and eBPF accessible to everyone with semantic correlation
+Building **Rauta** - a Kubernetes-native API gateway written in Rust, leveraging eBPF and XDP for high-performance HTTP packet processing. Exploring the intersection of kernel-level programming and cloud-native infrastructure.
+
+## Key Projects
+
+### [Tapio](https://github.com/yairfalse/tapio)
+**Kubernetes & eBPF Observability Platform**
+- Makes K8s and eBPF accessible through semantic correlation
 - Real-time event processing with <100ms latency
 - Natural language insights from technical events
 
-### 🔍 **[Urpo](https://github.com/yairfalse/urpo)**
-*Lightning-fast OpenTelemetry trace explorer built in Rust*
-- Urpo provides immediate insights into distributed system health with minimal resource overhead.
-- A high-performance trace analysis tool that prioritizes speed and efficiency above all else.
-- Built for teams who need instant answers from their telemetry data without the heavyweight infrastructure.
+### [Urpo](https://github.com/yairfalse/urpo)
+**Lightning-fast OpenTelemetry Trace Explorer**
+- Immediate insights into distributed system health
+- Minimal resource overhead, maximum performance
+- Built for teams needing instant answers from telemetry data
 
-### 🎵 **[ENXIO](https://yairetziony.bandcamp.com/)**
-*Electronic Music - Ambient/Experimental*
-- Tech-themed albums exploring DevOps culture ("Git remote rm main", "Kubectl delete pod")
-- Modular synthesizer compositions with industrial and ambient influences
-- 15+ albums spanning experimental electronic music since 2007
+### Rauta
+**Kubernetes-native API Gateway**
+- Easy to understand, maintain, and configure
+- Cloud-native architecture with Kubernetes integration
+- Currently in active development
 
-## 🛠️ Open Source Contributions
+## Electronic Music
 
-- **[Helm](https://github.com/helm/helm)**: Committee member for Helm Summit EU 2019, contributed to the Kubernetes package manager
-- **[Berlin DevOps Meetup](https://www.meetup.com/berlin-devops/)**: Co-organizer building community around DevOps practices in Berlin
-- **[CD Foundation](https://cd.foundation/)**: Ambassador promoting continuous delivery practices
+I create experimental electronic music as **[ENXIO](https://yairetziony.bandcamp.com/)** - ambient/industrial compositions exploring the intersection of technology and emotion.
 
-## 💼 Current Work
+- 15+ albums since 2007
+- Tech-themed releases: "Git remote rm main", "Kubectl delete pod"
+- Modular synthesizer & Max/MSP compositions
 
-**[AMBOSS](https://amboss.com)**: Currently Engineering Manager at AMBOSS - building infrastructure and leading teams for the medical knowledge platform. Previously founded Polar Squad Berlin and serve as CD Foundation Ambassador. Also organizing the Berlin DevOps meetup, building community around modern infrastructure practices. Over 30 years of experience from VAX/VMS to modern cloud infrastructure.
+## Community & Speaking
 
-## 🧰 Technologies & Tools
+- **CD Foundation Ambassador** - Promoting continuous delivery practices
+- **Helm Summit EU 2019** - Committee member & contributor
+- **Berlin DevOps Meetup** - Co-organizer building local infrastructure community
+- Conference speaker on DevOps, observability, and cloud-native practices
 
-```
-Languages:     Go, Shell, YAML, HCL
-Cloud:         AWS, GCP, Kubernetes, Docker, Terraform
-DevOps:        CI/CD, GitOps, Helm, ArgoCD, Jenkins
-Observability: Prometheus, Grafana, eBPF, OpenTelemetry
-Networking:    Cilium, eBPF, Container Networking
-Infrastructure: Terraform, Infrastructure as Code
-Databases:     PostgreSQL, Redis, ClickHouse
-Audio:         Modular Synthesis, Cubase, Max/MSP
-Leadership:    Team Management, DevOps Culture, SRE
-```
+## Professional
+
+**Engineering Manager @ [AMBOSS](https://amboss.com)**  
+Building infrastructure and leading teams for the medical knowledge platform. Previously founded Polar Squad Berlin.
+
+**Core Skills**: Go, Rust, Kubernetes, eBPF, Terraform, AWS/GCP, OpenTelemetry, Cilium, ArgoCD
 
 ## 📊 GitHub Stats
 
@@ -53,13 +55,15 @@ Leadership:    Team Management, DevOps Culture, SRE
 </div>
 
 
-## 📫 Connect With Me
+## Connect
 
-- 💼 **LinkedIn**: [Yair Etziony](https://linkedin.com/in/yair-etziony)
-- 🎵 **Bandcamp**: [Electronic Music](https://yairetziony.bandcamp.com/)
-- ✍️ **Medium**: [@false-systems](https://medium.com/@false-systems)
-- 🏢 **Berlin DevOps**: [Meetup Organizer](https://www.meetup.com/berlin-devops/)
-- 📧 **Email**: Contact via LinkedIn or GitHub
-- 🎤 **Speaking**: CD Foundation Ambassador & Conference Speaker
+- [LinkedIn](https://linkedin.com/in/yair-etziony)
+- [Bandcamp](https://yairetziony.bandcamp.com/)
+- [Medium](https://medium.com/@false-systems)
+- [Berlin DevOps Meetup](https://www.meetup.com/berlin-devops/)
 
 ---
+
+> "The good God dwells in the detail."  
+> — Aby Warburg
+
