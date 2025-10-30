@@ -16,7 +16,7 @@ Berlin-based Engineering Manager building high-performance observability platfor
 - Minimal resource overhead, maximum performance
 - Built for teams needing instant answers from telemetry data
 
-### Rauta
+### [Rauta](https://github.com/yairfalse/rauta)
 **Kubernetes-native API Gateway**
 - Easy to understand, maintain, and configure
 - Cloud-native architecture with Kubernetes integration
