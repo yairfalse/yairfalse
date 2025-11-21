@@ -10,11 +10,11 @@ Berlin-based Engineering Manager building high-performance observability platfor
 - Real-time event processing with <100ms latency
 - Natural language insights from technical events
 
-### [Urpo](https://github.com/yairfalse/urpo)
-**Lightning-fast OpenTelemetry Trace Explorer**
-- Immediate insights into distributed system health
-- Minimal resource overhead, maximum performance
-- Built for teams needing instant answers from telemetry data
+### [kulta](https://github.com/yairfalse/kulta)
+**Kubernetes Progressive Delivery Controller**
+- Designed to work with the new K8s API-Gateway
+- Simple, no need for service mesh
+- Easy observability with CDEvents, Prometheus metrics
 
 ### [Rauta](https://github.com/yairfalse/rauta)
 **Kubernetes-native API Gateway**
