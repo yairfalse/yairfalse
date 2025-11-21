@@ -10,7 +10,7 @@ Berlin-based Engineering Manager building high-performance observability platfor
 - Real-time event processing with <100ms latency
 - Natural language insights from technical events
 
-### [kulta](https://github.com/yairfalse/kulta)
+### [Kulta](https://github.com/yairfalse/kulta)
 **Kubernetes Progressive Delivery Controller**
 - Designed to work with the new K8s API-Gateway
 - Simple, no need for service mesh
