@@ -5,10 +5,10 @@ Berlin-based Engineering Manager building high-performance observability platfor
 ## Key Projects
 
 ### [Tapio](https://github.com/yairfalse/tapio)
-**Kubernetes & eBPF Observability Platform**
-- Makes K8s and eBPF accessible through semantic correlation
-- Real-time event processing with <100ms latency
-- Natural language insights from technical events
+**Lean Kubernetes Observability Agent**
+- Kernel-level observability (network, container, node) with zero instrumentation
+- Real-time event processing pipeline (<1ms latency)
+- Tiered intelligence: Simple (OTLP) → FREE (NATS) → ENTERPRISE (correlation)
 
 ### [Kulta](https://github.com/yairfalse/kulta)
 **Kubernetes Progressive Delivery Controller**
