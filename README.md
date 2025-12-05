@@ -44,12 +44,6 @@ Building infrastructure and leading teams for the medical knowledge platform. Pr
 
 **Core Skills**: Go, Rust, Kubernetes, eBPF, Terraform, AWS/GCP, OpenTelemetry, Cilium, ArgoCD
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yairfalse&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
 
 ## Connect
 
