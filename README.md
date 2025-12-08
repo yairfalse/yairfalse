@@ -5,7 +5,7 @@ I think most infrastructure tooling optimizes for the wrong things — flexibili
 ## Key Projects
 
 ### [sykli](https://github.com/yairfalse/tapio)
-** CI without the YAML, Write your pipelines in real programming languages**
+**CI without the YAML, Write your pipelines in real programming languages**
 CI without the YAML. Write your pipelines in real programming languages.
 Local-first: use your own CPUs before paying for cloud. Your CI config should be testable, type-checked, and debuggable like any other code. Built on Elixir and the BEAM for natural concurrency.
 
