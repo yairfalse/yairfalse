@@ -6,17 +6,14 @@ I think most infrastructure tooling optimizes for the wrong things — flexibili
 ## Key Projects
 
 ### [Sykli](https://github.com/yairfalse/tapio)
-**CI without the YAML, Write your pipelines in real programming languages**
 CI without the YAML. Write your pipelines in real programming languages.
 Local-first: use your own CPUs before paying for cloud. Your CI config should be testable, type-checked, and debuggable like any other code. Built on Elixir and the BEAM for natural concurrency.
 
 ### [Kulta](https://github.com/yairfalse/kulta)
-**Kubernetes Progressive Delivery Controller**
-Designed to work with the new K8s API-Gateway, simple, no need for service mesh, easy observability with CDEvents, Prometheus metrics
+Kubernetes Progressive Delivery Controller, designed to work with the new K8s API-Gateway, simple, no need for service mesh, easy observability with CDEvents, Prometheus metrics
 
 ### [Rauta](https://github.com/yairfalse/rauta)
-**Kubernetes-native API Gateway**
-Easy to understand, maintain, and configure, cloud-native architecture with Kubernetes integration, currently in active development
+Kubernetes-native API Gateway, easy to understand, maintain, and configure, cloud-native architecture with Kubernetes integration, currently in active development
 
 ## Electronic Music
 
