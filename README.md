@@ -1,4 +1,5 @@
-Yair Etziony
+Yair Etziony,
+
 Engineering Manager living in Berlin. 30 years of building infrastructure, from VAX/VMS to eBPF.
 I think most infrastructure tooling optimizes for the wrong things — flexibility over clarity, features over ergonomics. I build tools that are easy to understand first.
 
