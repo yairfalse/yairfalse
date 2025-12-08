@@ -1,26 +1,21 @@
-# Hi, I'm Yair
-
-Berlin-based Engineering Manager building high-performance observability platforms and experimental electronic music. 30+ years of infrastructure experience from VAX/VMS to eBPF.
+Yair Etziony
+Engineering Manager living in Berlin. 30 years of building infrastructure, from VAX/VMS to eBPF.
+I think most infrastructure tooling optimizes for the wrong things — flexibility over clarity, features over ergonomics. I build tools that are easy to understand first.
 
 ## Key Projects
 
-### [Tapio](https://github.com/yairfalse/tapio)
-**Lean Kubernetes Observability Agent**
-- Kernel-level observability (network, container, node) with zero instrumentation
-- Real-time event processing pipeline (<1ms latency)
-- Tiered intelligence: Simple (OTLP) → FREE (NATS) → ENTERPRISE (correlation)
+### [sykli](https://github.com/yairfalse/tapio)
+** CI without the YAML, Write your pipelines in real programming languages**
+CI without the YAML. Write your pipelines in real programming languages.
+Local-first: use your own CPUs before paying for cloud. Your CI config should be testable, type-checked, and debuggable like any other code. Built on Elixir and the BEAM for natural concurrency.
 
 ### [Kulta](https://github.com/yairfalse/kulta)
 **Kubernetes Progressive Delivery Controller**
-- Designed to work with the new K8s API-Gateway
-- Simple, no need for service mesh
-- Easy observability with CDEvents, Prometheus metrics
+Designed to work with the new K8s API-Gateway, simple, no need for service mesh, easy observability with CDEvents, Prometheus metrics
 
 ### [Rauta](https://github.com/yairfalse/rauta)
 **Kubernetes-native API Gateway**
-- Easy to understand, maintain, and configure
-- Cloud-native architecture with Kubernetes integration
-- Currently in active development
+Easy to understand, maintain, and configure, cloud-native architecture with Kubernetes integration, currently in active development
 
 ## Electronic Music
 
@@ -30,20 +25,17 @@ I create experimental electronic music as **[ENXIO](https://yairetziony.bandcamp
 - Tech-themed releases: "Git remote rm main", "Kubectl delete pod"
 - Modular synthesizer & Max/MSP compositions
 
-## Community & Speaking
+Music
+I make experimental electronic music as ENXIO — ambient/industrial exploring technology and emotion. 15+ albums since 2007, including Git remote rm main and Kubectl delete pod.
+→ Bandcamp
+Community
+CD Foundation Ambassador · Helm Summit EU'19 Committee · Berlin DevOps Meetup co-organizer
 
-- **CD Foundation Ambassador** - Promoting continuous delivery practices
-- **Helm Summit EU 2019** - Committee member & contributor
-- **Berlin DevOps Meetup** - Co-organizer building local infrastructure community
-- Conference speaker on DevOps, observability, and cloud-native practices
 
 ## Professional
 
 **Engineering Manager @ [AMBOSS](https://amboss.com)**  
 Building infrastructure and leading teams for the medical knowledge platform. Previously founded Polar Squad Berlin.
-
-**Core Skills**: Go, Rust, Kubernetes, eBPF, Terraform, AWS/GCP, OpenTelemetry, Cilium, ArgoCD
-
 
 ## Connect
 
