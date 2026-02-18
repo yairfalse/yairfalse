@@ -10,13 +10,12 @@
 
 Infrastructure for agents as first-class operators.
 
-| | |
-| [Sykli](https://github.com/yairfalse/sykli) | CI without YAML |
-| [Kerto](https://github.com/false-systems/kerto) | Project memory. AI teaches the next AI |
-| [Nopea](https://github.com/false-systems/nopea) | CD with memory, not manifests |
-| [Ahti](https://github.com/yairfalse/ahti) | Git for infrastructure. Causal graph, not dashboards |
-| [Polku](https://github.com/false-systems/polku) | The path events take |
-| [Vaisto](https://github.com/false-systems/vaisto) | Typed Scheme for the BEAM |
+- [Sykli](https://github.com/yairfalse/sykli) — CI without YAML
+- [Kerto](https://github.com/false-systems/kerto) — project memory. AI teaches the next AI
+- [Nopea](https://github.com/false-systems/nopea) — CD with memory, not manifests
+- [Ahti](https://github.com/yairfalse/ahti) — git for infrastructure. Causal graph, not dashboards
+- [Polku](https://github.com/false-systems/polku) — the path events take
+- [Vaisto](https://github.com/false-systems/vaisto) — typed Scheme for the BEAM
 
 ---
 
