@@ -11,7 +11,6 @@
 Infrastructure for agents as first-class operators.
 
 | | |
-|---|---|
 | [Sykli](https://github.com/yairfalse/sykli) | CI without YAML |
 | [Kerto](https://github.com/false-systems/kerto) | Project memory. AI teaches the next AI |
 | [Nopea](https://github.com/false-systems/nopea) | CD with memory, not manifests |
