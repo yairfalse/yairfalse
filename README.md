@@ -19,14 +19,6 @@ Infrastructure for agents as first-class operators.
 
 ---
 
-## Music
-
-Experimental electronic music as ENXIO. Ambient/industrial at the intersection of technology and emotion. 15+ albums since 2007.
-
-→ [Bandcamp](https://falseindustries.bandcamp.com/)
-
----
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/yair-etziony/) · [Berlin DevOps Meetup](https://www.meetup.com/berlin-devops/) · [False Systems](https://www.false-systems.com)
