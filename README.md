@@ -4,7 +4,7 @@
 30 years of infrastructure, from VAX/VMS to the agentic era.
 Berlin. Fond of Belgian beer and long walks.
 
-[False Systems](https://www.false-systems.com). started as a joke.
+[False Systems](https://www.false-systems.com) started as a joke.
 Now it's a serious attempt to predict what infrastructure
 looks like when agents are the operators.
 
