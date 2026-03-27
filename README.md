@@ -1,41 +1,45 @@
-```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   yair etziony                                           │
-│   infrastructure · berlin · 30 years in the machine room │
-│                                                          │
-│   founder, false systems                                 │
-│   infrastructure for agents as first-class operators     │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+## yair etziony
 
-Production infrastructure assumes a human operator. False Systems
-assumes the operator is an agent. Every tool in this stack is built
-to be read, understood, and operated by software — not just humans.
+infrastructure · berlin · 30 years in the machine room
+
+Founder, [False Systems](https://www.false-systems.com) — infrastructure for agents as first-class operators.
+
+Production infrastructure assumes a human operator.
+False Systems assumes the operator is an agent.
 
 ---
 
-### false systems
+### observe
 
-**observe**
-- [`ahti`](https://github.com/yairfalse/ahti) — causal event graph over infrastructure state `rust`
+[`ahti`](https://github.com/yairfalse/ahti) — infrastructure knowledge engine `rust`
+[`tapio`](https://github.com/false-systems/tapio) — edge intelligence for kubernetes, ebpf-based `rust`
+[`elava`](https://github.com/yairfalse/elava) — stateless cloud resource scanner `go`
+[`portti`](https://github.com/yairfalse/portti) — kubernetes control plane watcher `go`
+[`luotain`](https://github.com/false-systems/luotain) — blackbox probe toolkit for ai agents `rust`
 
-**act**
-- [`sykli`](https://github.com/yairfalse/sykli) — pipeline engine, no yaml `elixir`
-- [`nopea`](https://github.com/false-systems/nopea) — continuous delivery with deployment memory `go`
-- [`rauha`](https://github.com/yairfalse/rauha) — container runtime with ebpf lsm isolation `rust`
-- [`rauta`](https://github.com/yairfalse/rauta) — gateway api proxy `rust`
+### act
 
-**connect**
-- [`polku`](https://github.com/false-systems/polku) — typed event routing between agents `go`
-- [`kerto`](https://github.com/false-systems/kerto) — persistent agent context `go`
+[`sykli`](https://github.com/false-systems/sykli) — ai-native ci, pipelines in your language `elixir`
+[`nopea`](https://github.com/false-systems/nopea) — ai-native deployment with memory `elixir`
+[`rauha`](https://github.com/yairfalse/rauha) — container runtime with ebpf lsm isolation `rust`
+[`kulta`](https://github.com/false-systems/kulta) — progressive delivery controller `rust`
 
-**foundations**
-- [`vaisto`](https://github.com/false-systems/vaisto) — scheme with hindley-milner types, targeting beam `elixir`
-- [`vaisto_bpf`](https://github.com/yairfalse/vaisto_bpf) — s-expression to bpf bytecode compiler `elixir`
-- [`ilmari`](https://github.com/yairfalse/ilmari) — kubernetes sdk for go, code-only `go`
-- [`seppo`](https://github.com/yairfalse/seppo) — kubernetes sdk for rust `rust`
+### connect
+
+[`rauta`](https://github.com/false-systems/rauta) — ai-native kubernetes api gateway `rust`
+[`polku`](https://github.com/false-systems/polku) — programmable message pipeline `rust`
+[`kerto`](https://github.com/false-systems/kerto) — project memory for ai agents `elixir`
+
+### foundations
+
+[`vaisto`](https://github.com/false-systems/vaisto) — scheme with hindley-milner types, targeting beam `elixir`
+[`vaisto_bpf`](https://github.com/yairfalse/vaisto_bpf) — s-expression to bpf bytecode compiler `elixir`
+[`ilmari`](https://github.com/yairfalse/ilmari) — kubernetes sdk for go, code-only `go`
+[`seppo`](https://github.com/yairfalse/seppo) — kubernetes sdk for rust `rust`
+
+### tools
+
+[`valkka`](https://github.com/yairfalse/valkka) — ai-native git command center `elixir`
 
 ---
 
