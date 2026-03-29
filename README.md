@@ -13,8 +13,6 @@ False Systems assumes the operator is an agent.
 
 - [`ahti`](https://github.com/yairfalse/ahti) — infrastructure knowledge engine `rust`
 - [`tapio`](https://github.com/false-systems/tapio) — edge intelligence for kubernetes, ebpf-based `rust`
-- [`elava`](https://github.com/yairfalse/elava) — stateless cloud resource scanner `go`
-- [`portti`](https://github.com/yairfalse/portti) — kubernetes control plane watcher `go`
 - [`luotain`](https://github.com/false-systems/luotain) — blackbox probe toolkit for ai agents `rust`
 
 ### act
