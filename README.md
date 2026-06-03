@@ -1,14 +1,16 @@
-## Yair Etziony
+# Yair Etziony
 
-Founder · CD Foundation · 30y infra
+Founder at **False Systems** · Chair of the **CD Foundation Ambassador cohort** · 30 years in infrastructure.
 
-eBPF · BEAM · Elixir
+I work with **eBPF**, **Elixir**, **BEAM**, **Rust**, Linux, Kubernetes, CI/CD, and systems that should be easier to understand than they are.
 
-Infrastructure is observable.  
-It is not understandable.
+I’m interested in the space between observability, causality, automation, and enforcement — especially now that more of the operator is no longer human.
 
-Building:
-- [jälki](https://github.com/yairfalse/jalki) — ask the kernel what’s wrong
-- [Ahti](https://github.com/yairfalse/ahti) — causal graph ("git for infrastructure")
-- [Vaisto](https://github.com/yairfalse/vaisto) — execution layer for contracts
-- [syva](https://github.com/yairfalse/syva) — enforcement
+## Projects
+
+* [**Vartio**](https://github.com/false-systems/vartio) — behavioral control for non-human actors
+* [**Ahti**](https://github.com/false-systems/ahti) — operational evidence store
+* [**Lähde**](https://github.com/false-systems/lahde) — causal context
+* [**jälki**](https://github.com/false-systems/jalki) — kernel questions
+* [**Syvä**](https://github.com/false-systems/syva) — kernel enforcement
+
