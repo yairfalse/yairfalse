@@ -1,6 +1,6 @@
 # Yair Etziony
 
-Founder at **False Systems** · Chair of the **CD Foundation Ambassador cohort** **Claude Ambassador** · 30 years in infrastructure.
+Founder at **False Systems** · Chair of the **CD Foundation Ambassador cohort**, **Claude Ambassador** · 30 years in infrastructure.
 
 I work with **eBPF**, **Elixir**, **BEAM**, **Rust**, Linux, Kubernetes, CI/CD, and systems that should be easier to understand than they are.
 
