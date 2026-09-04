@@ -14,5 +14,4 @@ I'm interested in the space between observability, causality, automation, and en
 - [**Vartio**](https://github.com/false-systems/vartio) — the memory across machines
 - [**Syvä**](https://github.com/false-systems/syva) — kernel enforcement
 
-I build my own containers because I can.
-```
+I build my own containers because I can
