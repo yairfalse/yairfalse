@@ -16,8 +16,11 @@ Coding agents now author a large share of the work. Nobody watched the runs.
 - [**Vartio**](https://github.com/false-systems/vartio) — remembers. Team layer across machines; the difference against what was accepted.
 - [**perusta**](https://github.com/false-systems/perusta) — the contract. Behaviour Commit v0; the only code that hashes.
 
-Engines: [Kide](https://github.com/false-systems/kide) (interpretation), [Ruuma](https://github.com/false-systems/ruuma) (equivalence), [Ahti](https://github.com/false-systems/ahti) (evidence store).
-Kernel: [Syvä](https://github.com/false-systems/syva) (BPF-LSM enforcement), [Tapio](https://github.com/false-systems/tapio) (kernel failure evidence).
+- [Kide](https://github.com/false-systems/kide) (interpretation),
+- [Ruuma](https://github.com/false-systems/ruuma) (equivalence),
+- [Ahti](https://github.com/false-systems/ahti) (evidence store).
+- [Syvä](https://github.com/false-systems/syva) (BPF-LSM enforcement),
+- [Tapio](https://github.com/false-systems/tapio) (kernel failure evidence).
 
 ## Elsewhere
 
