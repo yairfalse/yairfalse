@@ -6,19 +6,13 @@ I work with **eBPF**, **Elixir**, **BEAM**, **Rust**, Linux, Kubernetes, CI/CD, 
 
 I'm interested in the space between observability, causality, automation, and enforcement — especially now that more of the operator is no longer human.
 
-## False Systems
+## Projects
 
-Coding agents now author a large share of the work. Nobody watched the runs.
+- [**Selko**](https://github.com/false-systems/selko) — what the agent actually did
+- [**Rauha**](https://github.com/false-systems/rauha) — the cell it runs in
+- [**Taso**](https://github.com/false-systems/taso) — the merge gate
+- [**Vartio**](https://github.com/false-systems/vartio) — the memory across machines
+- [**Syvä**](https://github.com/false-systems/syva) — kernel enforcement
 
-- [**Selko**](https://github.com/false-systems/selko) — knows. Records what an agent actually did, from below.
-- [**Rauha**](https://github.com/false-systems/rauha) — contains. Optional isolation cell; undeclared destinations do not exist inside it.
-- [**Taso**](https://github.com/false-systems/taso) — gates. The merge check: which lines came from a watched run, and which didn't.
-- [**Vartio**](https://github.com/false-systems/vartio) — remembers. Team layer across machines; the difference against what was accepted.
-
-- [**Kide**](https://github.com/false-systems/kide) (interpretation),
-- [**Ruuma**](https://github.com/false-systems/ruuma) (equivalence),
-- [**Ahti**](https://github.com/false-systems/ahti) (evidence store).
-- [**Syvä**](https://github.com/false-systems/syva) (BPF-LSM enforcement),
-- [**Tapio**](https://github.com/false-systems/tapio) (kernel failure evidence).
-
-
+I build my own containers because I can.
+```
