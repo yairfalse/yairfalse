@@ -14,14 +14,11 @@ Coding agents now author a large share of the work. Nobody watched the runs.
 - [**Rauha**](https://github.com/false-systems/rauha) — contains. Optional isolation cell; undeclared destinations do not exist inside it.
 - [**Taso**](https://github.com/false-systems/taso) — gates. The merge check: which lines came from a watched run, and which didn't.
 - [**Vartio**](https://github.com/false-systems/vartio) — remembers. Team layer across machines; the difference against what was accepted.
-- [**perusta**](https://github.com/false-systems/perusta) — the contract. Behaviour Commit v0; the only code that hashes.
 
-- [Kide](https://github.com/false-systems/kide) (interpretation),
-- [Ruuma](https://github.com/false-systems/ruuma) (equivalence),
-- [Ahti](https://github.com/false-systems/ahti) (evidence store).
-- [Syvä](https://github.com/false-systems/syva) (BPF-LSM enforcement),
-- [Tapio](https://github.com/false-systems/tapio) (kernel failure evidence).
+- [**Kide**](https://github.com/false-systems/kide) (interpretation),
+- [**Ruuma**](https://github.com/false-systems/ruuma) (equivalence),
+- [**Ahti**](https://github.com/false-systems/ahti) (evidence store).
+- [**Syvä**](https://github.com/false-systems/syva) (BPF-LSM enforcement),
+- [**Tapio**](https://github.com/false-systems/tapio) (kernel failure evidence).
 
-## Elsewhere
 
-- [Aste](https://github.com/yairfalse/aste) — VST3 plugins, DSP, C++.
