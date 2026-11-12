@@ -26,7 +26,7 @@ Start with [Your first loop](https://github.com/false-systems/toimija/blob/main/
 - **[Syvä](https://github.com/false-systems/syva)**: workload confinement through eBPF and BPF-LSM, without replacing the container runtime.
 - **[Tapio](https://github.com/false-systems/tapio)**: turning selected Linux kernel failures into structured evidence.
 
-There's also a research project asking a more fundamental question: what would it take for Linux to have coherent, first-class security domains? Identity, file-descriptor authority, inheritance, revocation, and the uncomfortable gaps between existing mechanisms.
+There's also **Valvo**, a research project asking a more fundamental question: what would it take for Linux to have coherent, first-class security domains? Identity, file-descriptor authority, inheritance, revocation, and the uncomfortable gaps between existing mechanisms.
 
 Some of this work is practical engineering. Some of it is research. Occasionally the research explains why the practical engineering is harder than expected.
 
@@ -36,7 +36,12 @@ Some of this work is practical engineering. Some of it is research. Occasionally
 
 ## Sound
 
-I compose music and build some of the instruments I play it with: [Endurance](https://github.com/yairfalse/endurance), a polymetric sequencer and sampler; [Inversion](https://github.com/yairfalse/inversion), a granular sampler of disintegrating tape loops; [Radiance](https://github.com/yairfalse/radiance), a dub chord machine; and [Enforcement](https://github.com/yairfalse/enforcement), a dub techno processing chain.
+I compose music and build some of the instruments I play it with.
+
+- **[Aste](https://github.com/yairfalse/aste)**: a family of six audio instruments with original DSP, restrained industrial interfaces and unusually strict real-time testing: a hard mastering compressor, an equalizer with nonlinear bands, a programmed-current synthesizer, a tape-inspired memory instrument, a generative rhythm instrument and a playable reverb. Working prototypes, not released yet.
+- **[Soiva](https://github.com/yairfalse/soiva)**: live coding music on the BEAM. Patterns are processes, and everything can be morphed while it plays.
+
+Earlier instruments: [Endurance](https://github.com/yairfalse/endurance), [Inversion](https://github.com/yairfalse/inversion), [Radiance](https://github.com/yairfalse/radiance) and [Enforcement](https://github.com/yairfalse/enforcement).
 
 ## Elsewhere
 
