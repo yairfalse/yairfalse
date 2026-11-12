@@ -8,16 +8,16 @@ I founded [False Systems](https://false-systems.com) to explore some of these pr
 
 ## Tools for working with coding agents
 
-Most of my code is now written with agents. These are the four small tools I use to do that every day, open and MIT licensed. Each works alone; together they take a change from an agent's first prompt to main, checked and reviewed by a second agent.
+Most of my code is now written with agents. These are the four small tools I use to do that every day, open and MIT licensed. Each does one job and works alone; together they take a change from an agent's first prompt to main, checked and reviewed by a second agent.
 
-<img src="loop.svg" alt="A piece of work moves through five steps: start, check, review, land, deploy. toimija starts it, sykli does the other four, ohjaa holds what agents know, and vessa counts what agents used." width="100%">
+<img src="loop.svg" alt="A piece of work moves through five steps: start, check, review, land, deploy. toimija starts it. sykli checks and reviews it, lets it land on main only with proof and a review, and runs the deploy. ohjaa holds what agents know, and vessa counts what agents used and points each commit back to its session." width="100%">
 
-| Tool | What it does |
+| Tool | Its one job |
 |---|---|
-| **[toimija](https://github.com/false-systems/toimija)** | Starts a coding agent with the facts of the repository, and shows who is working where. |
-| **[sykli](https://github.com/false-systems/sykli)** | Runs the checks you declare and keeps proof. A second agent reviews the change before it reaches main. |
-| **[ohjaa](https://github.com/false-systems/ohjaa)** | Holds what your agents are told: decisions, lessons, facts. Anyone proposes; a person decides. |
-| **[vessa](https://github.com/false-systems/vessa)** | Counts what your agents used, from the records they leave on disk. |
+| **[toimija](https://github.com/false-systems/toimija)** | Tells a coding agent where the work stands when it starts, worked out from Git rather than guessed. Shows who else is working where, and passes a note to the next agent. |
+| **[sykli](https://github.com/false-systems/sykli)** | Decides whether a change may reach main. It runs the checks you declare, keeps proof of what passed, and has a second agent review the change; its git hook refuses a push to main without both. Deploys run through it the same way. |
+| **[ohjaa](https://github.com/false-systems/ohjaa)** | Holds what your agents are told: decisions, lessons, facts. Anyone proposes; a person decides. It writes what is current into each agent's own instruction file. |
+| **[vessa](https://github.com/false-systems/vessa)** | Counts what your agents used, from the records they leave on disk, and points each commit back to the agent sessions behind it. |
 
 Start with [Your first loop](https://github.com/false-systems/toimija/blob/main/docs/first-loop.md): one change, through all four.
 
